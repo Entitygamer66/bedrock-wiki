@@ -100,7 +100,7 @@ Save changes (Ctrl + S)
 ## Loot Tabler (Browser Application)
 
 :::tip
-To export a structure on mobile devices, [Download this pack.](https://mcpedl.com/export-structure-button-android-addon/)
+To export a structure on mobile devices, [Download this pack(Updated).](https://mcpedl.com/export-structures-add-on-1-21/)
 :::
 
 ### Adding the Loot Table
